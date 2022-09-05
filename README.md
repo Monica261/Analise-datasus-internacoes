@@ -1,1 +1,5 @@
-"Analise de casos de interna‡Æo - DATASUS" 
+"Analise de casos de internacoes - DATASUS" 
+<br/>
+A analise completa está no arquivo Internacoes_analise_datasus.ipynb
+dentro deste diretorio. As respostas e explicações das analises está
+no arquivo word enviado por e-mail.
