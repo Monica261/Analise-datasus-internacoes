@@ -1,0 +1,17 @@
+- tentar add uma coluna nova - data
+- remover linha total 
+*explicar que fez isso para agilizar o processo
+
+-excluir linha total do pandas
+
+-ler todas as sheets e tirar a mediana dos campos(um campo de cada vez) a) o número de Internações e b) o Valor
+Total das internações - 3.2
+*para meses faltantes eu coloqeui a mediana - explicacao - 3.1
+
+
+*algum modelo de previsao - analise preditiva, um algoritmito de aprendizado
+supervisionado - um algoritmo vai se baser nos dados existestes
+- da base historico eu treinaria o algoritmo, pra tentar prever as proximas infos = questa 3.3
+
+
+px.bar(df_permanencia_internacao, y='internacoes', x='dias_permanencia', color='data', hover_name='dias_permanencia')
